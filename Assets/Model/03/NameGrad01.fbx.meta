@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: ccabab786e7074f02b178676286ffb60
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: nurbsCircle1
+    100004: pasted__pasted__nurbsCircle3
+    100006: pasted__pasted__pasted__nurbsCircle5
+    100008: pasted__pasted__pasted__polySurface52
+    100010: pasted__pasted__pasted__polySurface63
+    100012: pasted__pasted__polySurface46
+    100014: pasted__pasted__polySurface47
+    100016: pasted__pasted__polySurface48
+    100018: pasted__pasted__pPipe1
+    100020: pasted__polySurface7
+    100022: polySurface10
+    100024: polySurface11
+    100026: polySurface12
+    100028: polySurface13
+    100030: polySurface14
+    100032: polySurface15
+    100034: polySurface16
+    100036: polySurface17
+    100038: polySurface18
+    100040: polySurface19
+    100042: polySurface20
+    100044: polySurface21
+    100046: polySurface8
+    100048: polySurface9
+    100050: pPlane1
+    100052: transform9
+    400000: //RootNode
+    400002: nurbsCircle1
+    400004: pasted__pasted__nurbsCircle3
+    400006: pasted__pasted__pasted__nurbsCircle5
+    400008: pasted__pasted__pasted__polySurface52
+    400010: pasted__pasted__pasted__polySurface63
+    400012: pasted__pasted__polySurface46
+    400014: pasted__pasted__polySurface47
+    400016: pasted__pasted__polySurface48
+    400018: pasted__pasted__pPipe1
+    400020: pasted__polySurface7
+    400022: polySurface10
+    400024: polySurface11
+    400026: polySurface12
+    400028: polySurface13
+    400030: polySurface14
+    400032: polySurface15
+    400034: polySurface16
+    400036: polySurface17
+    400038: polySurface18
+    400040: polySurface19
+    400042: polySurface20
+    400044: polySurface21
+    400046: polySurface8
+    400048: polySurface9
+    400050: pPlane1
+    400052: transform9
+    2100000: lambert5
+    2100002: lambert6
+    2100004: pasted__lambert4
+    2100006: lambert3
+    2100008: pasted__pasted__lambert10
+    2100010: pasted__pasted__pasted__lambert10
+    2300000: pasted__pasted__pasted__polySurface52
+    2300002: pasted__pasted__pasted__polySurface63
+    2300004: pasted__pasted__polySurface46
+    2300006: pasted__pasted__polySurface47
+    2300008: pasted__pasted__polySurface48
+    2300010: pasted__polySurface7
+    2300012: polySurface10
+    2300014: polySurface11
+    2300016: polySurface12
+    2300018: polySurface13
+    2300020: polySurface14
+    2300022: polySurface15
+    2300024: polySurface16
+    2300026: polySurface17
+    2300028: polySurface18
+    2300030: polySurface19
+    2300032: polySurface20
+    2300034: polySurface21
+    2300036: polySurface9
+    2300038: pPlane1
+    3300000: pasted__pasted__pasted__polySurface52
+    3300002: pasted__pasted__pasted__polySurface63
+    3300004: pasted__pasted__polySurface46
+    3300006: pasted__pasted__polySurface47
+    3300008: pasted__pasted__polySurface48
+    3300010: pasted__polySurface7
+    3300012: polySurface10
+    3300014: polySurface11
+    3300016: polySurface12
+    3300018: polySurface13
+    3300020: polySurface14
+    3300022: polySurface15
+    3300024: polySurface16
+    3300026: polySurface17
+    3300028: polySurface18
+    3300030: polySurface19
+    3300032: polySurface20
+    3300034: polySurface21
+    3300036: polySurface9
+    3300038: pPlane1
+    4300000: pPlane1
+    4300002: polySurface9
+    4300004: polySurface10
+    4300006: polySurface11
+    4300008: polySurface12
+    4300010: polySurface13
+    4300012: polySurface14
+    4300014: polySurface15
+    4300016: polySurface16
+    4300018: pasted__polySurface7
+    4300020: polySurface17
+    4300022: polySurface18
+    4300024: polySurface19
+    4300026: polySurface20
+    4300028: polySurface21
+    4300030: pasted__pasted__polySurface46
+    4300032: pasted__pasted__polySurface47
+    4300034: pasted__pasted__polySurface48
+    4300036: pasted__pasted__pasted__polySurface52
+    4300038: pasted__pasted__pasted__polySurface63
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 1507d2c2000c747438660b3632711731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 943e1cda866814577b98ac25cd900e90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: ea4348fb20af54162871fb9469b55947, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert4
+    second: {fileID: 2100000, guid: cc8f90e8071804baaabe99d697b22331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert10
+    second: {fileID: 2100000, guid: d6dde396f40424afaa2f743e4348b2da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__lambert10
+    second: {fileID: 2100000, guid: 52582613f65174184bd7a6071a9488e4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 430
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

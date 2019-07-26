@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 941b9a17c187845419cfd27c3c9ed32c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: nurbsCircle1
+    100004: nurbsCircle2
+    100006: pasted__nurbsCircle1
+    100008: pasted__pasted__pasted__pasted__pasted__pasted__pasted__nurbsCircle3
+    100010: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__nurbsCircle3
+    100012: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface46
+    100014: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface47
+    100016: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface48
+    100018: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface50
+    100020: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface51
+    100022: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface45
+    100024: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface46
+    100026: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface47
+    100028: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface48
+    100030: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface49
+    100032: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface50
+    100034: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface51
+    100036: pasted__pCylinder1
+    100038: pasted__pCylinder4
+    100040: pasted__pCylinder5
+    100042: pasted__pCylinder6
+    100044: pasted__pCylinder7
+    100046: pCylinder1
+    100048: pCylinder2
+    100050: polySurface248
+    100052: polySurface307
+    100054: polySurface308
+    100056: polySurface309
+    100058: polySurface310
+    100060: pPlane1
+    100062: nurbsCircle3
+    100064: polySurface312
+    100066: polySurface313
+    100068: polySurface314
+    100070: polySurface315
+    100072: polySurface316
+    400000: //RootNode
+    400002: nurbsCircle1
+    400004: nurbsCircle2
+    400006: pasted__nurbsCircle1
+    400008: pasted__pasted__pasted__pasted__pasted__pasted__pasted__nurbsCircle3
+    400010: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__nurbsCircle3
+    400012: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface46
+    400014: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface47
+    400016: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface48
+    400018: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface50
+    400020: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface51
+    400022: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface45
+    400024: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface46
+    400026: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface47
+    400028: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface48
+    400030: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface49
+    400032: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface50
+    400034: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface51
+    400036: pasted__pCylinder1
+    400038: pasted__pCylinder4
+    400040: pasted__pCylinder5
+    400042: pasted__pCylinder6
+    400044: pasted__pCylinder7
+    400046: pCylinder1
+    400048: pCylinder2
+    400050: polySurface248
+    400052: polySurface307
+    400054: polySurface308
+    400056: polySurface309
+    400058: polySurface310
+    400060: pPlane1
+    400062: nurbsCircle3
+    400064: polySurface312
+    400066: polySurface313
+    400068: polySurface314
+    400070: polySurface315
+    400072: polySurface316
+    2100000: blinn2
+    2100002: blinn3
+    2100004: lambert6
+    2100006: phong2
+    2100008: blinn5
+    2100010: blinn1
+    2100012: lambert8
+    2100014: pasted__blinn2
+    2100016: lambert9
+    2100018: pasted__lambert3
+    2100020: pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert10
+    2100022: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert11
+    2300000: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface46
+    2300002: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface47
+    2300004: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface48
+    2300006: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface50
+    2300008: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface51
+    2300010: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface45
+    2300012: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface46
+    2300014: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface47
+    2300016: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface48
+    2300018: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface49
+    2300020: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface50
+    2300022: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface51
+    2300024: pasted__pCylinder1
+    2300026: pasted__pCylinder4
+    2300028: pasted__pCylinder5
+    2300030: pasted__pCylinder6
+    2300032: pasted__pCylinder7
+    2300034: pCylinder1
+    2300036: pCylinder2
+    2300038: polySurface248
+    2300040: polySurface307
+    2300042: polySurface308
+    2300044: polySurface309
+    2300046: polySurface310
+    2300048: pPlane1
+    2300050: polySurface312
+    2300052: polySurface313
+    2300054: polySurface314
+    2300056: polySurface315
+    2300058: polySurface316
+    3300000: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface46
+    3300002: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface47
+    3300004: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface48
+    3300006: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface50
+    3300008: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface51
+    3300010: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface45
+    3300012: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface46
+    3300014: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface47
+    3300016: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface48
+    3300018: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface49
+    3300020: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface50
+    3300022: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface51
+    3300024: pasted__pCylinder1
+    3300026: pasted__pCylinder4
+    3300028: pasted__pCylinder5
+    3300030: pasted__pCylinder6
+    3300032: pasted__pCylinder7
+    3300034: pCylinder1
+    3300036: pCylinder2
+    3300038: polySurface248
+    3300040: polySurface307
+    3300042: polySurface308
+    3300044: polySurface309
+    3300046: polySurface310
+    3300048: pPlane1
+    3300050: polySurface312
+    3300052: polySurface313
+    3300054: polySurface314
+    3300056: polySurface315
+    3300058: polySurface316
+    4300000: polySurface248
+    4300002: polySurface307
+    4300004: polySurface308
+    4300006: polySurface309
+    4300008: polySurface310
+    4300010: pCylinder2
+    4300012: pCylinder1
+    4300014: pPlane1
+    4300016: pasted__pCylinder4
+    4300018: pasted__pCylinder1
+    4300020: pasted__pCylinder5
+    4300022: pasted__pCylinder6
+    4300024: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface45
+    4300026: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface46
+    4300028: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface47
+    4300030: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface48
+    4300032: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface49
+    4300034: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface50
+    4300036: pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface51
+    4300038: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface46
+    4300040: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface47
+    4300042: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface48
+    4300044: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface50
+    4300046: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__polySurface51
+    4300048: pasted__pCylinder7
+    4300050: polySurface312
+    4300052: polySurface313
+    4300054: polySurface314
+    4300056: polySurface315
+    4300058: polySurface316
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 9fac56a29be374ce1b68a113f0897a38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: 2ded30840a24e419b9ebc52e10e26c92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn3
+    second: {fileID: 2100000, guid: 5c1e755d9de9046dbb75d5a86e595cc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn5
+    second: {fileID: 2100000, guid: c0afa366e7ab24d1a8d62ab78405fe28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn6
+    second: {fileID: 2100000, guid: 0738cf8476d8a4133b585179382cc552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: d4606020a4e0a447895881c13d784ab4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: 7467069db1702442b9ca0d02804b8426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: b438c2457cefc46e1961570f32025974, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn2
+    second: {fileID: 2100000, guid: 178aaf807341a4383b0bbdd55612f91f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert3
+    second: {fileID: 2100000, guid: f196fa4741a6340b8a8a357d0e1af5dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert10
+    second: {fileID: 2100000, guid: 77c996e3215d84c4388457c277fdcb0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert11
+    second: {fileID: 2100000, guid: 77c996e3215d84c4388457c277fdcb0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: fc2ca599efb134d9d9b93895a2498b41, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 560
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

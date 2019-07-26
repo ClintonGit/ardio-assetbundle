@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 2169791090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be8e05ced4bcf4ed77ee1c738c4fb411
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c2c7bbfca539510db2072c36e2fceac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d1d9ba014818e485db50c3d01d582942, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2a467b3b9e32430990b4994f49e8483, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f574f045337e3470aa2727ecc09cda0d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Model/02/AR_system.fbx
+- Assets/Prefab/01.prefab
+- Assets/Model/02/lambert6.mat
+- Assets/Model/02/Texture/dsdsb.png
+- Assets/Model/02/pasted__pasted__lambert10.mat
+- Assets/Model/02/pasted__lambert8.mat
+- Assets/Model/02/pasted__pasted__pasted__pasted__pasted__lambert12.mat
+- Assets/Model/02/lambert5.mat
+- Assets/Model/02/pasted__pasted__pasted__pasted__lambert12.mat
+- Assets/Model/02/pasted__lambert10.mat
+- Assets/Model/02/Anim2.controller
+- Assets/Model/02/blinn2.mat
+- Assets/Model/02/pasted__pasted__lambert5.mat
+- Assets/Model/02/Texture/logo The foto'dio V2.jpg
+- Assets/Model/02/pasted__pasted__pasted__pasted__lambert10.mat
+- Assets/Model/02/lambert7.mat
+- Assets/Model/02/Texture/cgexport3.png
+- Assets/Model/02/pasted__pasted__pasted__lambert11.mat
+- Assets/Model/02/lambert8.mat
+- Assets/Model/02/Texture/_MG_1993-Edit.jpg
+- Assets/Model/02/blinn3.mat
+- Assets/Model/02/Texture/_MG_2004-Edit.jpg
+- Assets/Model/02/Texture/_MG_2009-Edit.jpg
+- Assets/Model/02/pasted__lambert3.mat
+- Assets/Model/02/lambert9.mat
+- Assets/Model/02/Texture/_MG_2016.jpg
+- Assets/Model/02/Texture/hologram3.png
+- Assets/Model/02/Texture/TX_0032323545233.png
+- Assets/Model/02/lambert2.mat
+- Assets/Model/02/Texture/_MG_20122.jpg
+Dependencies: []

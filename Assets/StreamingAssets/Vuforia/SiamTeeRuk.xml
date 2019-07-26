@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tuktuk4" size="1.000000 1.414444" />
+    <ImageTarget name="Tuktuk3" size="1.000000 0.706956" />
+    <ImageTarget name="Tuktuk2" size="1.000000 0.761963" />
+    <ImageTarget name="Ardio" size="1.000000 0.879290" />
+    <ImageTarget name="Tuktuk" size="1.000000 0.762000" />
+  </Tracking>
+</QCARConfig>
