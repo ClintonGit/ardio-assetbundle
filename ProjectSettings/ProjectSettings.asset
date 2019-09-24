@@ -160,7 +160,7 @@ PlayerSettings:
   buildNumber: {}
   AndroidBundleVersionCode: 9
   AndroidMinSdkVersion: 19
-  AndroidTargetSdkVersion: 27
+  AndroidTargetSdkVersion: 28
   AndroidPreferredInstallLocation: 0
   aotOptions: 
   stripEngineCode: 1
@@ -244,7 +244,7 @@ PlayerSettings:
   clonedFromGUID: 00000000000000000000000000000000
   templatePackageId: 
   templateDefaultScene: 
-  AndroidTargetArchitectures: 5
+  AndroidTargetArchitectures: 7
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: /Users/clintonmsk/Documents/Key.keystore
@@ -610,8 +610,9 @@ PlayerSettings:
     14: VUFORIA_WSA_SETTINGS
   platformArchitecture: {}
   scriptingBackend:
-    Android: 0
-  il2cppCompilerConfiguration: {}
+    Android: 1
+  il2cppCompilerConfiguration:
+    Android: 2
   managedStrippingLevel: {}
   incrementalIl2cppBuild: {}
   allowUnsafeCode: 0
