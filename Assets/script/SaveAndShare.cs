@@ -41,42 +41,19 @@ public class SaveAndShare : MonoBehaviour {
         });
     }
 
-	public void ShareFacebook() { 
-	  // UM_ShareUtility.FacebookShare("Hello world", Screenshot);
-		//UM_ShareUtility.ShareMedia ("Title","Description",Screenshot);
+
+	public void SaveToGallery(){
+
+	   var permission = NativeGallery.SaveImageToGallery( Screenshot, "SaveImageSuccess", "Image.png" );
+	   Debug.LogWarning(permission);
+	   
 	}
 
-    /*
-	void OnImageSaved (UM_ImageSaveResult result) {
-        
-		UM_Camera.Instance.OnImageSaved -= OnImageSaved;
-		if(result.IsSucceeded) {
-			UM_NotificationController.Instance.ShowNotificationPoup("บันทึกรูปภาพ","บันทึกรูปภาพสำเร็จ");
-		} else {
-			UM_NotificationController.Instance.ShowNotificationPoup("บันทึกรูปภาพ","บันทึกรูปภาพไม่สำเร็จ");
-		}
-        
-
-	}
-    */
 	public void CloseCapture(){
 		EnableUI ();
 		Share.SetActive (false);
 	}
 	
-
-    /*
-	private void OnImage (UM_ImagePickResult result) {
-        
-		UM_Camera.Instance.OnImageSaved -= OnImageSaved;
-		if(result.IsSucceeded) {
-			darawTexgture = result.image;
-		}
-
-		UM_Camera.Instance.OnImagePicked -= OnImage;
-        
-	}
-    */
 
 	public void DisbleUI() {
 		CanvasUI.SetActive(false);

@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 26203c1a820934d1bbde4c33871af12a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle001
+    100002: Circle002
+    100004: curve017
+    100006: curve018
+    100008: curve019
+    100010: curve020
+    100012: curve10
+    100014: curve11
+    100016: curve12
+    100018: curve13
+    100020: curve14
+    100022: curve15
+    100024: curve16
+    100026: curve7
+    100028: curve8
+    100030: curve9
+    100032: left
+    100034: mann01
+    100036: mann02
+    100038: mann03
+    100040: //RootNode
+    100042: nurbsCircle1
+    100044: nurbsCircle10
+    100046: nurbsCircle11
+    100048: nurbsCircle12
+    100050: nurbsCircle2
+    100052: nurbsCircle3
+    100054: nurbsCircle4
+    100056: nurbsCircle5
+    100058: nurbsCircle6
+    100060: nurbsCircle7
+    100062: nurbsCircle8
+    100064: nurbsCircle9
+    100066: Object004
+    100068: Object005
+    100070: Object006
+    100072: Object007
+    100074: Object008
+    100076: Object009
+    100078: polySurface1
+    100080: polySurface10
+    100082: polySurface11
+    100084: polySurface12
+    100086: polySurface13
+    100088: polySurface14
+    100090: polySurface15
+    100092: polySurface16
+    100094: polySurface17
+    100096: polySurface18
+    100098: polySurface19
+    100100: polySurface2
+    100102: polySurface20
+    100104: polySurface21
+    100106: polySurface3
+    100108: polySurface4
+    100110: polySurface5
+    100112: polySurface6
+    100114: polySurface7
+    100116: polySurface8
+    100118: polySurface9
+    100120: pPipe1
+    100122: pPipe1 1
+    100124: pPipe1 2
+    100126: pPipe1 3
+    100128: pPipe1 4
+    100130: pPipe1 5
+    100132: pPipe1 6
+    100134: Rectangle002
+    100136: Rectangle003
+    100138: Rectangle006
+    100140: Rectangle008
+    100142: Rectangle012
+    100144: Shape007
+    100146: Shape4
+    400000: Circle001
+    400002: Circle002
+    400004: curve017
+    400006: curve018
+    400008: curve019
+    400010: curve020
+    400012: curve10
+    400014: curve11
+    400016: curve12
+    400018: curve13
+    400020: curve14
+    400022: curve15
+    400024: curve16
+    400026: curve7
+    400028: curve8
+    400030: curve9
+    400032: left
+    400034: mann01
+    400036: mann02
+    400038: mann03
+    400040: //RootNode
+    400042: nurbsCircle1
+    400044: nurbsCircle10
+    400046: nurbsCircle11
+    400048: nurbsCircle12
+    400050: nurbsCircle2
+    400052: nurbsCircle3
+    400054: nurbsCircle4
+    400056: nurbsCircle5
+    400058: nurbsCircle6
+    400060: nurbsCircle7
+    400062: nurbsCircle8
+    400064: nurbsCircle9
+    400066: Object004
+    400068: Object005
+    400070: Object006
+    400072: Object007
+    400074: Object008
+    400076: Object009
+    400078: polySurface1
+    400080: polySurface10
+    400082: polySurface11
+    400084: polySurface12
+    400086: polySurface13
+    400088: polySurface14
+    400090: polySurface15
+    400092: polySurface16
+    400094: polySurface17
+    400096: polySurface18
+    400098: polySurface19
+    400100: polySurface2
+    400102: polySurface20
+    400104: polySurface21
+    400106: polySurface3
+    400108: polySurface4
+    400110: polySurface5
+    400112: polySurface6
+    400114: polySurface7
+    400116: polySurface8
+    400118: polySurface9
+    400120: pPipe1
+    400122: pPipe1 1
+    400124: pPipe1 2
+    400126: pPipe1 3
+    400128: pPipe1 4
+    400130: pPipe1 5
+    400132: pPipe1 6
+    400134: Rectangle002
+    400136: Rectangle003
+    400138: Rectangle006
+    400140: Rectangle008
+    400142: Rectangle012
+    400144: Shape007
+    400146: Shape4
+    2000000: left
+    2100000: pattaya2
+    2100002: pattaya3
+    2100004: pattaya4
+    2100006: pattaya1
+    2100008: blinn1
+    2100010: pattaya1vvvww
+    2100012: pattaya1vfrfsq
+    2100014: pattaya1vfrf
+    2300000: Circle001
+    2300002: Circle002
+    2300004: mann01
+    2300006: mann02
+    2300008: mann03
+    2300010: Object004
+    2300012: Object005
+    2300014: Object007
+    2300016: Object008
+    2300018: Object009
+    2300020: polySurface1
+    2300022: polySurface10
+    2300024: polySurface11
+    2300026: polySurface12
+    2300028: polySurface13
+    2300030: polySurface14
+    2300032: polySurface15
+    2300034: polySurface16
+    2300036: polySurface17
+    2300038: polySurface18
+    2300040: polySurface19
+    2300042: polySurface2
+    2300044: polySurface20
+    2300046: polySurface21
+    2300048: polySurface3
+    2300050: polySurface4
+    2300052: polySurface5
+    2300054: polySurface6
+    2300056: polySurface7
+    2300058: polySurface8
+    2300060: polySurface9
+    2300062: pPipe1
+    2300064: pPipe1 1
+    2300066: pPipe1 2
+    2300068: pPipe1 3
+    2300070: pPipe1 4
+    2300072: pPipe1 5
+    2300074: pPipe1 6
+    2300076: Rectangle002
+    2300078: Rectangle003
+    2300080: Rectangle006
+    2300082: Rectangle008
+    2300084: Rectangle012
+    2300086: Shape007
+    2300088: Shape4
+    3300000: Circle001
+    3300002: Circle002
+    3300004: mann01
+    3300006: mann02
+    3300008: mann03
+    3300010: Object004
+    3300012: Object005
+    3300014: Object007
+    3300016: Object008
+    3300018: Object009
+    3300020: polySurface1
+    3300022: polySurface10
+    3300024: polySurface11
+    3300026: polySurface12
+    3300028: polySurface13
+    3300030: polySurface14
+    3300032: polySurface15
+    3300034: polySurface16
+    3300036: polySurface17
+    3300038: polySurface18
+    3300040: polySurface19
+    3300042: polySurface2
+    3300044: polySurface20
+    3300046: polySurface21
+    3300048: polySurface3
+    3300050: polySurface4
+    3300052: polySurface5
+    3300054: polySurface6
+    3300056: polySurface7
+    3300058: polySurface8
+    3300060: polySurface9
+    3300062: pPipe1
+    3300064: pPipe1 1
+    3300066: pPipe1 2
+    3300068: pPipe1 3
+    3300070: pPipe1 4
+    3300072: pPipe1 5
+    3300074: pPipe1 6
+    3300076: Rectangle002
+    3300078: Rectangle003
+    3300080: Rectangle006
+    3300082: Rectangle008
+    3300084: Rectangle012
+    3300086: Shape007
+    3300088: Shape4
+    4300000: Rectangle002
+    4300002: Rectangle003
+    4300004: Rectangle008
+    4300006: Shape007
+    4300008: Object004
+    4300010: Object005
+    4300012: polySurface10
+    4300014: polySurface11
+    4300016: polySurface12
+    4300018: polySurface13
+    4300020: polySurface14
+    4300022: polySurface15
+    4300024: polySurface16
+    4300026: polySurface1
+    4300028: polySurface2
+    4300030: polySurface3
+    4300032: polySurface4
+    4300034: polySurface5
+    4300036: mann01
+    4300038: mann02
+    4300040: mann03
+    4300042: polySurface8
+    4300044: polySurface7
+    4300046: polySurface6
+    4300048: polySurface9
+    4300050: pPipe1
+    4300052: pPipe1
+    4300054: pPipe1
+    4300056: pPipe1
+    4300058: pPipe1
+    4300060: pPipe1
+    4300062: pPipe1
+    4300064: Shape4
+    4300066: Object007
+    4300068: Object008
+    4300070: Circle001
+    4300072: Circle002
+    4300074: polySurface21
+    4300076: polySurface20
+    4300078: Rectangle006
+    4300080: polySurface19
+    4300082: polySurface18
+    4300084: polySurface17
+    4300086: Rectangle012
+    4300088: Object009
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 6a902ff4913a8412d8a8b9cca928d7a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pattaya1
+    second: {fileID: 2100000, guid: 430543bab0630428f9d2109b87288348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pattaya1vfrf
+    second: {fileID: 2100000, guid: 87ef0f8c05bd443ecbd8519e5a085650, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pattaya1vfrfsq
+    second: {fileID: 2100000, guid: 0922d9802b1334745930cd53f32f11a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pattaya1vvvww
+    second: {fileID: 2100000, guid: b7b6663c1d731410d872649b940e4903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pattaya2
+    second: {fileID: 2100000, guid: 68e7751c4c69a4d7d859b18965371952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pattaya3
+    second: {fileID: 2100000, guid: 97df347f5fc3e42fca509e0134ec174c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pattaya4
+    second: {fileID: 2100000, guid: 43d9449b200ad46f69c76aa231610cd5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
